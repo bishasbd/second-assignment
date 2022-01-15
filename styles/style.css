@@ -194,7 +194,7 @@ button {
 /*--------------- 
     form 
 ----------------*/
-form {border: 3px solid #f1f1f1;}
+form {border: 5px solid #f1f1f1;}
 
 input[type=text], input[type=password] {
   width: 100%;
@@ -229,3 +229,4 @@ footer {
   text-align: center;
   padding-top: 40px;
 }
+
