@@ -1,7 +1,9 @@
 /*-----------
     fonts
 ------------*/
-@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&family=Poppins:wght@500&family=Rokkitt&display=swap");
+.boy{
+    font-family: 'Luxurious Roman', cursive;
+}
 
 /* -----------
     page margin
@@ -194,7 +196,9 @@ button {
 /*--------------- 
     form 
 ----------------*/
-form {border: 5px solid #f1f1f1;}
+form {border: 5px solid #f1f1f1;
+  
+}
 
 input[type=text], input[type=password] {
   width: 100%;
